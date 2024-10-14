@@ -137,6 +137,11 @@ hr {
   color: #DF0024 !important;
 }
 
+/*.SUM {
+  border-radius: 0.5rem;
+  border: 1px solid #000;
+}*/
+
 .STEP-2, .STEP-3, .STEP-4, .SS3, .SS4, #PSVERSIONS {
   display: none;
 }
@@ -192,4 +197,5 @@ hr {
   .FLICK {
     width: 50% !important;
   }
+
 }
