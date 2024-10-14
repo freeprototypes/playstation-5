@@ -38,6 +38,7 @@ h6 { font-size: 1.125rem !important; }
 
 .SS3 {
   font-size: 1.125rem !important;
+  /*opacity: 0.25;*/
 }
 
 .SS4 {
@@ -138,29 +139,6 @@ hr {
 
 .STEP-2, .STEP-3, .STEP-4, .SS3, .SS4, #PSVERSIONS {
   display: none;
-}
-
-/* Add the new button style here */
-.cta-btn {
-    display: inline-block;
-    background: linear-gradient(to right, #007bff, #00d2ff); /* Gradient color */
-    color: white;
-    font-size: 16px;
-    padding: 12px 24px;
-    border-radius: 8px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Light shadow effect */
-    transition: background 0.3s ease;
-    width: 100%;
-    max-width: 300px; /* To match the size of the button in the image */
-    margin: 20px auto;
-}
-
-.cta-btn:hover {
-    background: linear-gradient(to right, #006fdd, #00b8e6); /* Darker gradient on hover */
-    text-decoration: none;
 }
 
 @media (min-width: 768px) {
